@@ -1,0 +1,17 @@
+{
+  "name": "agendalegale",
+  "version": "1.0.0",
+  "description": "Agenda Legale",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lorenzo e Giuseppe",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1",
+    "mongoose": "^4.1.0",
+    "morgan": "^1.6.1"
+  }
+}
